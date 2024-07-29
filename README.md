@@ -117,9 +117,6 @@ To set up the project locally, follow these steps:
    npm install
    ```
 
-3. **Compile and deploy the smart contract**:
-   Follow the steps for deploying Move language contracts on the Aptos blockchain as per [Aptos documentation](https://aptos.dev/move/move-on-aptos/).
-
 ## Usage
 
 1. **Start the frontend**:
