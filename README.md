@@ -41,7 +41,6 @@ Security: Implementing robust security measures to protect user data and funds f
 
 ### Backend
 - **Hardhat**: For smart contract development and testing.
-- **Move language**: For writing smart contracts on the Aptos blockchain.
 - **Ethers.js**: For blockchain interactions.
 - **Xrp Ledger**
 
